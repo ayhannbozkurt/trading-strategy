@@ -2,50 +2,6 @@
 
 A backtesting application developed for testing various technical analysis strategies on Borsa Istanbul stocks. The application also helps you learn basic stock market concepts and technical analysis methods with its education mode.
 
-## 🌟 Features
-
-### 💹 Supported Strategies
-- **MACD (Moving Average Convergence Divergence)**
-  - Convergence/Divergence of fast and slow moving averages
-  - Customizable periods
-  - Signal line crossovers
-
-- **RSI (Relative Strength Index)**
-  - Overbought/Oversold levels
-  - Momentum-based trading signals
-  - Volume analysis integration
-
-- **Bollinger Bands**
-  - Dynamic support/resistance levels
-  - Volatility-based strategy
-  - Bandwidth analysis
-
-- **Buy & Hold**
-  - Baseline strategy for comparison
-  - Long-term investment simulation
-
-### 📊 Performance Metrics
-- Total and annual return
-- Sharpe ratio
-- Win/Loss ratio
-- Maximum drawdown
-- Average trade duration
-- Average profit/loss per trade
-- Profitable trades percentage
-
-### 📚 Education Mode
-- **Basic Concepts**
-  - Trend analysis
-  - Momentum
-  - Support and resistance levels
-  - Trading volumes
-
-- **Technical Analysis**
-  - Trend indicators
-  - Momentum indicators
-  - Volume indicators
-  - Interactive charts and examples
-
 ## 🚀 Getting Started
 
 ### Installation
