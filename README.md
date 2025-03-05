@@ -1,6 +1,10 @@
 # Trading Strategy Backtester 📈
 
-A backtesting application developed for testing various technical analysis strategies on Borsa Istanbul stocks. The application also helps you learn basic stock market concepts and technical analysis methods with its education mode.
+A backtesting application developed for testing various technical analysis strategies stocks. The application also helps you learn basic stock market concepts and technical analysis methods with its education mode.
+
+
+https://github.com/user-attachments/assets/cdd95f25-ce72-40a8-bbe7-8fa5def43609
+
 
 ## 🚀 Getting Started
 
